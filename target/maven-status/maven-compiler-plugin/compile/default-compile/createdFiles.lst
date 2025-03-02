@@ -1,0 +1,5 @@
+uz\tasks\todo\controller\TodoController.class
+uz\tasks\todo\domain\Todo.class
+uz\tasks\todo\repository\TodoRepository.class
+uz\tasks\todo\service\TodoService.class
+uz\tasks\todo\App.class
